@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>927136883825-27e8lmtb0d147bkb99l913m7q2a8f1h9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.927136883825-27e8lmtb0d147bkb99l913m7q2a8f1h9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDplUL1EmF8Nawq0xjoKGewxT9JWTvc8iI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>927136883825</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ericCHU.bookXCHANGE</string>
+	<key>PROJECT_ID</key>
+	<string>bookxchange-5d9d9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bookxchange-5d9d9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:927136883825:ios:d487d67b883fd747</string>
+	<key>DATABASE_URL</key>
+	<string>https://bookxchange-5d9d9.firebaseio.com</string>
+</dict>
+</plist>
